@@ -1,2 +1,2 @@
-# de-bruijn-sequence
-de-bruijn-sequence
+# de-bruijn-decode
+de-bruijn-decode
